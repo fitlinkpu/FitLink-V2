@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25172715635",
+    "project_id": "fitlink2",
+    "storage_bucket": "fitlink2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25172715635:android:e97a1b116da0f8e971a206",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL0RQ8dKOZWhmPMTQi4LI9GzRocJnGLDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
